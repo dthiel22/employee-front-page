@@ -40,7 +40,7 @@ npm install fs
 
 ![image showing the obve description](./Assets/IMG4.JPG)
 
-- Viewing the html page, we can see that the following information had been saved to the index.html file.
+- Viewing the html page, we can see that the following information had been saved to the index.html file. There are hyperlinks to open your default email app when emails are clicked and engineer's github accounts are linked to the page as well.
 
 ![image showing the obve description](./Assets/IMG5.JPG)
 
